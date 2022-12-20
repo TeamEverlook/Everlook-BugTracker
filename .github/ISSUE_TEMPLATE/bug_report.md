@@ -10,12 +10,16 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Quest/Item/Spell Link**
+If this is quest, item or spell related, please put the link here.
+
+Example:  https://www.wowhead.com/classic/quest=5904/a-plague-upon-thee
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
